@@ -1,5 +1,4 @@
 FROM debian:latest
-MAINTAINER tom@harhar.net
 
 ENV DEBIAN_FRONTEND noninteractive
 
